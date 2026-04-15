@@ -1,0 +1,4 @@
+services:
+  we123:
+    build: .
+    command: ["python", "-m", "we123"]
